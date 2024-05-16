@@ -11,6 +11,7 @@ Key Features:<br />
 • Dynamic filtering options for customizing views and extracting actionable insights.<br />
 
 Usage:<br />
+
 • Clone or download the repository to your local machine.<br />
 • Open the Power BI file in Power BI Desktop.<br />
 • Connect the dashboard to the provided Superstore sales dataset or replace it with your own data source.<br />
