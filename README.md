@@ -17,3 +17,5 @@ Usage:<br />
 • Connect the dashboard to the provided Superstore sales dataset or replace it with your own data source.<br />
 • Explore the dashboard visualizations, interact with the filters, and analyze the sales performance metrics.<br />
 • Gain actionable insights to optimize sales strategies, improve customer engagement, and drive business growth.<br />
+
+Click here to experience this dashboard: https://shorturl.at/9rRAJ
