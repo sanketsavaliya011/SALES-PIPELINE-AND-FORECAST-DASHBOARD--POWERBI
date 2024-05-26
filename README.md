@@ -4,10 +4,10 @@ Using the power of Power Bl, I've developed a comprehensive dashboard to visuali
 
 Key insights include:<br />
 
-Sales performance by region<br />
-Product category trends<br />
-Customer demographics<br />
-Profit margins and more!<br />
+• Sales performance by region<br />
+• Product category trends<br />
+• Customer demographics<br />
+• Profit margins and more!<br />
 
 Usage:<br />
 
