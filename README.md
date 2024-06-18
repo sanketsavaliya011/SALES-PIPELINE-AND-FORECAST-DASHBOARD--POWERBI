@@ -1,4 +1,4 @@
-# Super Store Sales Dashboard(PowerBI)
+# SALES PIPELINE AND FORECAST DASHBOARD - POWERBI
 
 Using the power of Power Bl, I've developed a comprehensive dashboard to visualize and analyze sales data across various dimensions. It's a game-changer for making data-driven decisions in retail management!
 
